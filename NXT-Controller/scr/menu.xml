@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuitem_main_control"
+        android:enabled="false"
+        android:title="Button controls"
+        android:icon="@drawable/ic_menu_main"
+        android:visible="false"></item>
+
+    <item
+        android:id="@+id/menuitem_raw_data"
+        android:icon="@drawable/ic_menu_raw_data"
+        android:title="Check raw data &amp; map"></item>
+
+    <item
+        android:id="@+id/menuitem_settings"
+        android:title="Settings"></item>
+
+</menu>
