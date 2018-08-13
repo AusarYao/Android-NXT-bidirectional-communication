@@ -1,0 +1,6 @@
+The below are command for windows, I haven't tested them on Mac. Direct to this folder from cmd
+first, then run the following command.
+
+nxjc NXTTerminal.java Scan.java
+nxjlink -o NXTTerminal.nxj NXTTerminal
+nxjupload -r NXTTerminal.nxj
