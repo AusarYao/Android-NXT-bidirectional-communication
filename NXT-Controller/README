@@ -1,2 +1,4 @@
 This folder contains the Android side of the program
+The .zip file contains the whole program and can be directly opened in Android Studio
+Other folder contains .java and .xml file, which is included in the .zip file, for ease of editing online
 The phone I tested with has a resolution of 1440 * 2560. If you encounter any problem with UI, please check the xml files
